@@ -2,7 +2,7 @@
 
 # 🌟 Xin chào! Tôi là Bach Anh Tien 🌟
 
-![Profile Banner](https://static.topcv.vn/avatars/3M0yS8rqonuINs4xn10Q_689aabfdae4d8_cvtpl.jpg)  
+![Profile Banner](https://static.topcv.vn/avatars/3M0yS8rqonuINs4xn10Q_689aabfdae4d8_cvtpl.jpg) 
 *Chào mừng bạn đến với không gian sáng tạo của tôi!*
 
 </div>
@@ -30,9 +30,9 @@ Dưới đây là những dự án tôi tâm huyết và đã được triển k
 
 | Tên dự án                    | Mô tả                                           | Công nghệ                    | Link                                                                                        |
 |------------------------------|-------------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------|
-| **TS Screen**                | Ứng dụng điều khiển máy chiếu, tiết kiệm 140M VND | Flutter, Laravel, Firebase  | [App Store](https://apps.apple.com/vn/app/ts-screen/id6745683551) \| [Google Play](https://play.google.com/store/apps/details?id=user.gtglobal.ts_screen) |
+| **TS Screen**                | Ứng dụng điều khiển máy chiếu với VNPAY, tiết kiệm 140M VND | Flutter, Laravel, Firebase, VNPAY  | [App Store](https://apps.apple.com/vn/app/ts-screen/id6745683551) \| [Google Play](https://play.google.com/store/apps/details?id=user.gtglobal.ts_screen) |
 | **XSPIN Check-in**           | Ứng dụng check-in sự kiện với QR code          | Flutter, Provider, REST API | [App Store](https://apps.apple.com/vn/app/check-in-sự-kiện-xspin/id6736929748) \| [Google Play](https://play.google.com/store/apps/details?id=com.xspin.checkin) |
-| **GT Global Website**        | Website doanh nghiệp với admin panel           | Laravel, MySQL, JavaScript  | [🌐 Live ](https://gtglobal.com.vn/)                                                   |
+| **GT Global Website**        | Website doanh nghiệp với admin panel           | Laravel, MySQL, JavaScript  | [🌐 Live Demo](https://gtglobal.com.vn/)                                                   |
 | **CRM GT**                   | Ứng dụng quản lý dự án xây dựng                | Flutter, Laravel, WebSocket | 🏢 Internal Project                                                                        |
 | **XSPIN Notifications**      | Ứng dụng thông báo và quản lý task nội bộ      | Flutter, Firebase, Provider | [App Store](https://apps.apple.com/us/app/xspin-otifications/id6748840346)                |
 | **Local CRM Mobile**         | Ứng dụng CRM với timesheet và KPI tracking     | Flutter, MVP, Provider      | [📱 GitHub](https://github.com/CHANQUOCLE/xspincrm)                                       |
@@ -91,6 +91,7 @@ Dưới đây là những dự án tôi tâm huyết và đã được triển k
 - [ ] 📱 Phát triển thêm 5 ứng dụng mobile thực tế  
 - [ ] 🌟 Đóng góp cho cộng đồng open source  
 - [ ] 📚 Học thêm về AI/ML integration trong mobile apps  
+- [ ] 🏆 Dẫn dắt team phát triển các dự án lớn  
 
 ---
 

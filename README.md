@@ -2,7 +2,7 @@
 
 # 🌟 Xin chào! Tôi là Bach Anh Tien 🌟
 
-![Profile Banner](https://via.placeholder.com/1200x300/52d3aa/FFFFFF?text=Flutter+Developer+%7C+Mobile+%26+Web+Solutions)  
+![Profile Banner](https://via.placeholder.com/1200x300/52d3aa/FFFFFF?text=Flutter+Developer+%7C+Mobile+%26+Web+Solutions](https://static.topcv.vn/avatars/3M0yS8rqonuINs4xn10Q_689aabfdae4d8_cvtpl.jpg)  
 *Chào mừng bạn đến với không gian sáng tạo của tôi!*
 
 </div>
